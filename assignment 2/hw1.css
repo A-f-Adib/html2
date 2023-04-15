@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background-color: bisque;
+}
+
+@media screen and (max-width:992px){
+    .column{
+        float: left;
+        width: 50%;
+        background-color: burlywood;
+    }
+    
+}
+@media screen and (max-width:600px){
+    .column{
+        float: left;
+        width: 100%;
+        background-color: rgb(194, 133, 93);
+    }
+    
+}
