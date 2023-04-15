@@ -1,0 +1,36 @@
+.spn{
+    color: chocolate;
+}
+body{
+    font-family: 'Poppins' , sans-serif ;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.abc{
+    padding-left: 100px;
+    width: 50%;
+    padding-top: 50px;
+}
+.abc img{
+    width: 100%;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.def{
+    background-color: chocolate;
+    color: white;
+    height: 40px;
+    width: 120px;
+    padding-top: 1px;
+    text-align: center;
+    padding-bottom: 23px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+    
+}
