@@ -24,3 +24,15 @@
     }
     
 }
+
+h1{
+    text-align: center;
+}
+
+.hw2{
+    width: 50%;
+   padding: 10px;
+    box-shadow: 10px 15px 15px rgb(66, 102, 208);
+    float: left;
+    
+}
